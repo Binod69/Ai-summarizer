@@ -37,7 +37,7 @@ const Demo = () => {
   const handleCopy = (copyUrl) => {
     setCopied(copyUrl);
     navigator.clipboard.writeText(copyUrl);
-    setTimeout(() => setCopy(false), 3000);
+    setTimeout(() => setCopied(false), 3000);
   };
 
   return (
