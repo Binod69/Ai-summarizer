@@ -1,3 +1,5 @@
+https://github.com/Binod69/ai-summarizer/blob/main/public/Screenshot%202023-04-26%20at%2011.40.02%20AM.png
+
 This repository contains an AI Article Summarizer built using React, Vite, Redux Toolkit, and Tailwind.
 
 GETTING STARTED:
